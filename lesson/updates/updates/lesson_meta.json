@@ -1,0 +1,15 @@
+{
+  "lessonId": "UPD001",
+  "lessonCategoryId": "CID002",
+  "title": {
+    "eng": "Updates",
+    "ger": "Updates"
+  },
+  "motivation": {
+    "eng": "Updates are important!",
+    "ger": "Updates sind wichtig!"
+  },
+  "duration": 3,
+  "difficulty": 0,
+  "hasQuiz": true
+}
