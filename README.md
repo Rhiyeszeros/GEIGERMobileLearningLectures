@@ -89,3 +89,13 @@ Die lesson-meta.json-Datei enthält alle Informationen über die ausgewählte Le
 „prerequisites“ gibt an, welche Lektionen als „Vorraussetzung“ für die ausgewählte Lektion bearbeitet worden sein sollten. Als Werte werden die IDs der jeweiligen Lektionen eingetragen im Format [„ID1“, „ID2“, „ID3“].
 
 „impact“ gibt an, wie groß der Einfluss auf den GEIGER Wert, der in Meta-Datei der Kategorie festgelegten Einfluss-Kategorie sein soll. Die möglichen Werte sind „low“, „medium“ oder „high
+
+## Recommendations/Empfehlungen
+
+Die Empfehlungen, die an die GEIGER Toolbox gesendet werden basieren auf den folgenden Kriterien:
+
+1. Maximal fünf Empfehlungen gleichzeitig, um den Nutzer nicht zuviel auf einmal zuzumuten.
+2. Maximal zwei Empfehlungen in der gleichen "Threat Impact" - Kategorie.
+3. Lektionen die keine Vorbedingungen haben bzw. Lektionen von denen der Nutzer bereits alle Vorbedingungen abgeschlossen hat werden priorisiert empfohlen.
+4. Lektionen mit einem höheren "Impact" werden priorisiert empfohlen.
+5. Lektionen mit niedriger Schwierigkeit werden priorisiert empfohlen.
