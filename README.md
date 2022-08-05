@@ -1,7 +1,7 @@
 # GEIGER Mobile Learning Lectures
 This repo will be used to provide the lectures to the GEIGER Mobile Learning Application
 
-##/Meta.json
+## /Meta.json
 
 Die meta.json Datei enthält die Informationen über die aktuell empfohlene Lektion.
 ```
@@ -23,7 +23,7 @@ Die meta.json Datei enthält die Informationen über die aktuell empfohlene Lekt
 „recommendedIfCompleted“ gibt an, ob die Lektion auch empfohlen werden soll, wenn der Nutzer diese bereits absolviert hat. Bei „false“ wird sie nicht mehr empfohlen, bei „true“ erscheint die empfehlung trotzdem.
 
 
-##/Kategorie/lesson_category_meta.json
+## /Kategorie/lesson_category_meta.json
 
 Die lesson_category_meta.json-Datei enthält die Informationen über die Lektionskategorie.
 ```
@@ -47,7 +47,7 @@ Die lesson_category_meta.json-Datei enthält die Informationen über die Lektion
 
 https://github.com/cyber-geiger/toolbox-storage/wiki/Data-structures#sub-node-global
 
-##/Kategorie/Lektion/lesson-meta.json
+## /Kategorie/Lektion/lesson-meta.json
 
 Die lesson-meta.json-Datei enthält alle Informationen über die ausgewählte Lektion.
 ```
