@@ -2,14 +2,18 @@
   "lessonId": "UPD001",
   "lessonCategoryId": "CID002",
   "title": {
-    "eng": "Updates",
-    "ger": "Updates"
+    "eng": "Manage Updates",
+    "ger": "Updates verwalten.",
+    "nl": "TBD",
+    "ro": "TBD"
   },
   "motivation": {
-    "eng": "Updates are important!",
-    "ger": "Updates sind wichtig!"
+    "eng": "Learn how important updates are!",
+    "ger": "So wichtig sind updates!"
   },
   "duration": 3,
   "difficulty": 0,
-  "hasQuiz": true
+  "hasQuiz": true,
+  "prerequisites": [],
+  "impact" : "low"
 }
