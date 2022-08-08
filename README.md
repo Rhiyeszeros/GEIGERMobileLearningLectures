@@ -74,6 +74,7 @@ Die lesson-meta.json-Datei enthält alle Informationen über die ausgewählte Le
 „lessonId“ gibt die ID der Lektion an.
 
 „lessonCategoryId“ gibt die ID der Kategorie an zu der die Lektion gehört.
+[es gilt hier zwischen 'category' und array zu unterscheiden - category X level = array]
 
 „title“ gibt den Titel der Lektion in den verschiedenen Sprachen an.
 
@@ -83,12 +84,17 @@ Die lesson-meta.json-Datei enthält alle Informationen über die ausgewählte Le
 
 „difficulty“ gibt an welchen Schwierigkeitsgrad die Lektion hat. Mögliche Werte sind [0,1,2].
 0 entspricht „Anfänger“, 1 enstpricht „Fortgeschritten“ und 2 entspricht „Experte“
+[wir würden wohl eher von Level 1, 2, 3 sprechen ]
 
 „hasQuiz“ gibt an, ob am Ende der Lektion ein Test/Quiz über den Inhalt der Lektion gibt. Bei „true“ gibt es ein Quiz, bei „false“ nicht.
 
 „prerequisites“ gibt an, welche Lektionen als „Vorraussetzung“ für die ausgewählte Lektion bearbeitet worden sein sollten. Als Werte werden die IDs der jeweiligen Lektionen eingetragen im Format [„ID1“, „ID2“, „ID3“].
+[wie hatten ja noch die Idee, dass ergänzende bzw. Glossarlektionen geben könnte, auf die verwiesen werden könnte]
+
 
 „impact“ gibt an, wie groß der Einfluss auf den GEIGER Wert, der in Meta-Datei der Kategorie festgelegten Einfluss-Kategorie sein soll. Die möglichen Werte sind „low“, „medium“ oder „high
+[die Alternative war hier, dass jede Lektion denselben Wert hat - und dass Impact sich aus der Zahl der einem array (KategorieXLevel) zugeordneten Lektionen ergibt]
+
 
 ## Recommendations/Empfehlungen
 
