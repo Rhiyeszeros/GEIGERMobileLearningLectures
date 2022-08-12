@@ -7,16 +7,28 @@
     <link rel="stylesheet" href="../../../main.css?v=1.0">
   </head>
   <body>
-    <p><b>True or false?</b></p>
-    <form>
+    <p>We will now test your knowledge about password managers!</p>
+    <!--Single Choice Aufgabe-->
+    <!-- "value" gibt an, was das richtige Resultat sein sollte. Bei "true" sollte diese Antwortmöglichkeit gewählt werden, um die Frage richtig zu beantworten. -->
+    <!-- Bei Single Choice Aufgaben darf nur die eine, korrekte Antwortmöglichkeit bei "value" den Wert "true" haben.-->
+    <form type="singleChoice" maxPoints="1">
       <p>If I use a password manager, I won't need strong passwords.</p>
-      <input id="answer1" name="answer" value="false" type="radio"> <label for="answer1">true</label><br>
-      <input id="answer2" name="answer" value="true" type="radio"> <label for="answer2">false</label><br>
+      <input value="false" type="radio"> <label for="answer1">true</label><br>
+      <input value="true" type="radio"> <label for="answer2">false</label><br>
     </form>
-    <form>
-      <p>A password manager can create passwords.</p>
-      <input id="answer3" name="answer" value="true" type="radio"> <label for="answer1">true</label><br>
-      <input id="answer4" name="answer" value="false" type="radio"> <label for="answer2">false</label><br>
+    <form type="singleChoice" maxPoints="1">
+      <p>How many passwords can a password manager store?.</p>
+      <input value="false" type="radio"> <label for="answer3">One</label><br>
+      <input value="false" type="radio"> <label for="answer4">Two</label><br>
+      <input value="true" type="radio"> <label for="answer4">A very large number.</label><br>
+    </form>
+    <!--Multiple Choice Aufgabe-->
+    <!-- Alle Antwortmöglichkeiten die korrekterweise ausgewählt werden sollten, müssen den Wert "true" als "value haben.-->
+    <form type="multipleChoice" maxPoints="1.5">
+      <p>Which of these passwords are safe?.</p>
+      <input value="false" type="checkbox"> <label for="answer5">123456</label><br>
+      <input value="true" type="checkbox"> <label for="answer6">84sk37b4LL</label><br>
+      <input value="true" type="checkbox"> <label for="answer7">coW!burN#movE?pianOh</label><br>
     </form>
   </body>
 </html>
