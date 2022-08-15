@@ -35,7 +35,7 @@ Die lesson_category_meta.json-Datei enthält die Informationen über die Lektion
     "nl": "TBD",
     "ro": "TBD"
   },
-  "impactCategories": ["d748ccd2-d306-4b3c-abe8-6a650443a4a6, f1836c07-0bf8-49ab-831a-61026c7ce0d1"],
+  "impactCategories": ["d748ccd2-d306-4b3c-abe8-6a650443a4a6, f1836c07-0bf8-49ab-831a-61026c7ce0d1"]
 }
 ```
 
