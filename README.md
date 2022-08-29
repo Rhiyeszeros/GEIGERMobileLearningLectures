@@ -34,7 +34,7 @@ Die lesson_category_meta.json-Datei enthält die Informationen über die Lektion
     "ger":"Passwörter",
     "nl": "TBD",
     "ro": "TBD"
-  },
+  }
 }
 ```
 
