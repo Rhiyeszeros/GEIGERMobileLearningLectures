@@ -67,8 +67,7 @@ Die lesson-meta.json-Datei enthält alle Informationen über die ausgewählte Le
   "difficulty": 0,
   "hasQuiz": true,
   "prerequisites": ["LPW001", „LPW002“],
-  "impact" : "low",
-  "impactCategories": ["d748ccd2-d306-4b3c-abe8-6a650443a4a6, f1836c07-0bf8-49ab-831a-61026c7ce0d1"]
+  "impact": ["b59a62bb-a95d-4c1a-b8f2-e53c303843df,high", "f1836c07-0bf8-49ab-831a-61026c7ce0d3,low"]
 }
 ```
 „lessonId“ gibt die ID der Lektion an.
@@ -91,9 +90,7 @@ Die lesson-meta.json-Datei enthält alle Informationen über die ausgewählte Le
 „prerequisites“ gibt an, welche Lektionen als „Vorraussetzung“ für die ausgewählte Lektion bearbeitet worden sein sollten. Als Werte werden die IDs der jeweiligen Lektionen eingetragen im Format [„ID1“, „ID2“, „ID3“].
 [wie hatten ja noch die Idee, dass ergänzende bzw. Glossarlektionen geben könnte, auf die verwiesen werden könnte]
 
-
-„impact“ gibt an, wie groß der Einfluss auf den GEIGER Wert, der in Meta-Datei der Kategorie festgelegten Einfluss-Kategorie sein soll. Die möglichen Werte sind „low“, „medium“ oder „high
-[die Alternative war hier, dass jede Lektion denselben Wert hat - und dass Impact sich aus der Zahl der einem array (KategorieXLevel) zugeordneten Lektionen ergibt]
+"impact" gibt die Threat-Kategorien und die Stärke des "Impacts" auf die jeweilige Kategorie an.
 
 
 ## Recommendations/Empfehlungen
