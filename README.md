@@ -66,7 +66,7 @@ Die lesson-meta.json-Datei enthält alle Informationen über die ausgewählte Le
   "duration": 3,
   "difficulty": 0,
   "hasQuiz": true,
-  "prerequisites": ["LPW001", „LPW002“],
+  "prerequisites": ["LPW001", "LPW002“],
   "impact": ["b59a62bb-a95d-4c1a-b8f2-e53c303843df,high", "f1836c07-0bf8-49ab-831a-61026c7ce0d3,low"]
 }
 ```
