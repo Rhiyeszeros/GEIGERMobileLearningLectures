@@ -3,13 +3,13 @@
   "lessonCategoryId": "CID002",
   "title": {
     "eng": "Adblocker",
-    "ger": "Adblocker",
+    "de": "Adblocker",
     "nl": "TBD",
     "ro": "TBD"
   },
   "motivation": {
     "eng": "Learn how to use Adblockers!",
-    "ger": "Lernen Sie, wie Sie Adblocker nutzen können!"
+    "de": "Lernen Sie, wie Sie Adblocker nutzen können!"
   },
   "duration": 3,
   "difficulty": 1,
