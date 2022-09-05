@@ -31,7 +31,7 @@ Die lesson_category_meta.json-Datei enthält die Informationen über die Lektion
   "lessonCategoryId": "CID001",
   "title": {
     "eng":"Passwords",
-    "ger":"Passwörter",
+    "de":"Passwörter",
     "nl": "TBD",
     "ro": "TBD"
   }
