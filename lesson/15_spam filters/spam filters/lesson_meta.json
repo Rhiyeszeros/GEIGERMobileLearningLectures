@@ -1,0 +1,18 @@
+{
+  "lessonId": "LSP001",
+  "lessonCategoryId": "CID015",
+  "title": {
+    "eng": "Spam filters",
+    "de": "Spam-Filter",
+    "nl": "TBD",
+    "ro": "TBD"
+  },
+  "motivation": {
+    "eng": "Learn how to use spam filters!",
+    "de": "Lernen Sie, wie Sie Spam-Filter gezielt einsetzen können!"
+  },
+  "duration": 5,
+  "difficulty": 1,
+  "prerequisites": [],
+  "impact": ["7cf1c9a8-fe8d-4ff7-be51-25e401537e11,high"]
+}

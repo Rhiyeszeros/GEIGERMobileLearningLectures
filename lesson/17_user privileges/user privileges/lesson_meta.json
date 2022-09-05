@@ -1,0 +1,18 @@
+{
+  "lessonId": "LUS001",
+  "lessonCategoryId": "CID017",
+  "title": {
+    "eng": "User privileges",
+    "de": "Benutzer:innenrechte",
+    "nl": "TBD",
+    "ro": "TBD"
+  },
+  "motivation": {
+    "eng": "Learn about the importance of user privileges for cybersecurity!",
+    "de": "Erfahren Sie, warum Benutzer:innenrechte essentiell für Cybersecurity sind!"
+  },
+  "duration": 5,
+  "difficulty": 2,
+  "prerequisites": [],
+  "impact": ["2edeabac-0092-4799-8128-8813e81471fb,high", "f7742d4c-2cfa-4c61-874e-fb8c38ef7d14,medium"]
+}
