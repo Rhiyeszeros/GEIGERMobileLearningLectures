@@ -55,7 +55,7 @@ Die lesson-meta.json-Datei enthält alle Informationen über die ausgewählte Le
   "lessonCategoryId": "CID001",
   "title": {
     "eng": "Password Manager",
-    "ger": "Passwortverwaltung",
+    "de": "Passwortverwaltung",
     "nl": "TBD",
     "ro": "TBD"
   },
