@@ -1,0 +1,18 @@
+{
+  "lessonId": "LCI001",
+  "lessonCategoryId": "CID004",
+  "title": {
+    "eng": "Cyber Insurance",
+    "de": "Cyber-Versicherungen",
+    "nl": "TBD",
+    "ro": "TBD"
+  },
+  "motivation": {
+    "eng": "Learn about cyber insurances!",
+    "de": "Lernen Sie über Cyber-Versicherungen!"
+  },
+  "duration": 5,
+  "difficulty": 2,
+  "prerequisites": [],
+  "impact": ["f2836c07-0bf8-49ab-831a-61026c7ce0d1,low"]
+}

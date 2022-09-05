@@ -1,0 +1,18 @@
+{
+  "lessonId": "L2F001",
+  "lessonCategoryId": "CID001",
+  "title": {
+    "eng": "2-Factor Authentication",
+    "de": "2-Faktor Authentifizierung",
+    "nl": "TBD",
+    "ro": "TBD"
+  },
+  "motivation": {
+    "eng": "Learn about 2-Factor Authentication!",
+    "de": "Informieren Sie sich über 2-Faktor Authentifizierung!"
+  },
+  "duration": 5,
+  "difficulty": 1,
+  "prerequisites": [""],
+  "impact": ["f1836c07-0bf8-49ab-831a-61026c7ce0d1,high", "f1836c07-0bf8-49ab-831a-61026c7ce0d4,medium"]
+}
