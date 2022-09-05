@@ -1,0 +1,18 @@
+{
+  "lessonId": "LPS001",
+  "lessonCategoryId": "CID011",
+  "title": {
+    "eng": "Passwords",
+    "de": "Passwörter",
+    "nl": "TBD",
+    "ro": "TBD"
+  },
+  "motivation": {
+    "eng": "Learn about safe password usage!",
+    "de": "Informieren Sie sich über die sichere Verwendung von Passwörtern!"
+  },
+  "duration": 3,
+  "difficulty": 0,
+  "prerequisites": ["L2F001"],
+  "impact": ["2edeabac-0092-4799-8128-8813e81471fb,high", "f3836c07-0bf8-49ab-831a-61026c7ce0d1,high"]
+}

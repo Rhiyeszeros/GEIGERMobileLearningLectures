@@ -1,0 +1,18 @@
+{
+  "lessonId": "LRW001",
+  "lessonCategoryId": "CID012",
+  "title": {
+    "eng": "Remote work security",
+    "de": "Sicheres Arbeiten im Home-Office",
+    "nl": "TBD",
+    "ro": "TBD"
+  },
+  "motivation": {
+    "eng": "Learn about cybersecurity in remote work!",
+    "de": "Erfahren Sie mehr über Cybersecurity im Homeoffice!"
+  },
+  "duration": 5,
+  "difficulty": 1,
+  "prerequisites": ["LPS001", "LGD001", "LUP001"],
+  "impact": ["f1836c07-0bf8-49ab-831a-61026c7ce0d5,high", "f3836c07-0bf8-49ab-831a-61026c7ce0d1,medium"]
+}
