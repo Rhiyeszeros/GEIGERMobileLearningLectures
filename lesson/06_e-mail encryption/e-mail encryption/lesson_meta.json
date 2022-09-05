@@ -1,0 +1,18 @@
+{
+  "lessonId": "LEE001",
+  "lessonCategoryId": "CID006",
+  "title": {
+    "eng": "E-Mail Encryption",
+    "de": "E-Mail Verschlüsselung",
+    "nl": "TBD",
+    "ro": "TBD"
+  },
+  "motivation": {
+    "eng": "Learn how to encrypt E-Mails!",
+    "de": "Lernen Sie, wie E-Mail Verschlüsselung funktioniert!"
+  },
+  "duration": 10,
+  "difficulty": 2,
+  "prerequisites": [],
+  "impact": ["7cf1c9a8-fe8d-4ff7-be51-25e401537e11,medium", "f3836c07-0bf8-49ab-831a-61026c7ce0d1,high"]
+}

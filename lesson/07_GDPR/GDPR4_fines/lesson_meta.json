@@ -1,0 +1,18 @@
+{
+  "lessonId": "LGD004",
+  "lessonCategoryId": "CID007",
+  "title": {
+    "eng": "GDPR fines",
+    "de": "Bußgelder im Rahmen der DSGVO",
+    "nl": "TBD",
+    "ro": "TBD"
+  },
+  "motivation": {
+    "eng": "Inform yourself about GDPR fines in case of non-compliance!",
+    "de": "Informieren Sie sich über Bußgelder bei Nichteinhaltung der DSGVO!"
+  },
+  "duration": 10,
+  "difficulty": 2,
+  "prerequisites": ["LGD001", "LGD002", "LGD003"],
+  "impact": ["f3836c07-0bf8-49ab-831a-61026c7ce0d1,low"]
+}

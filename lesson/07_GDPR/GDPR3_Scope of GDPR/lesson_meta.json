@@ -1,0 +1,18 @@
+{
+  "lessonId": "LGD003",
+  "lessonCategoryId": "CID007",
+  "title": {
+    "eng": "Scope of GDPR",
+    "de": "Anwendungsbereich der DSGVO",
+    "nl": "TBD",
+    "ro": "TBD"
+  },
+  "motivation": {
+    "eng": "Learn about the scope of GDPR!",
+    "de": "Erfahren Sie mehr über den Anwendungsbereich der DSGVO!"
+  },
+  "duration": 10,
+  "difficulty": 2,
+  "prerequisites": ["LGD001", "LGD002"],
+  "impact": ["f3836c07-0bf8-49ab-831a-61026c7ce0d1,low"]
+}
