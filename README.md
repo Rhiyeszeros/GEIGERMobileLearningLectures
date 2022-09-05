@@ -61,7 +61,7 @@ Die lesson-meta.json-Datei enthält alle Informationen über die ausgewählte Le
   },
   "motivation": {
     "eng": "Improve your password security!",
-    "ger": "Verbessere deine Passwortsicherheit!"
+    "de": "Verbessere deine Passwortsicherheit!"
   },
   "duration": 3,
   "difficulty": 0,
