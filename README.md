@@ -31,7 +31,7 @@ Die lesson_category_meta.json-Datei enthält die Informationen über die Lektion
   "lessonCategoryId": "CID001",
   "title": {
     "eng":"Passwords",
-    "ger":"Passwörter",
+    "de":"Passwörter",
     "nl": "TBD",
     "ro": "TBD"
   }
@@ -55,13 +55,13 @@ Die lesson-meta.json-Datei enthält alle Informationen über die ausgewählte Le
   "lessonCategoryId": "CID001",
   "title": {
     "eng": "Password Manager",
-    "ger": "Passwortverwaltung",
+    "de": "Passwortverwaltung",
     "nl": "TBD",
     "ro": "TBD"
   },
   "motivation": {
     "eng": "Improve your password security!",
-    "ger": "Verbessere deine Passwortsicherheit!"
+    "de": "Verbessere deine Passwortsicherheit!"
   },
   "duration": 3,
   "difficulty": 0,
