@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="FM" content="2-Factor Authentication">
+    <title></title>
+    <link rel="stylesheet" href="../../../main.css?v=1.0">
+  </head>
+  <body>
+    <p>Richtig oder falsch?</p>
+    <!--Single Choice Aufgabe-->
+    <!-- "value" gibt an, was das richtige Resultat sein sollte. Bei "true" sollte diese Antwortmöglichkeit gewählt werden, um die Frage richtig zu beantworten. -->
+    <!-- Bei Single Choice Aufgaben darf nur die eine, korrekte Antwortmöglichkeit bei "value" den Wert "true" haben.-->
+    <form type="singleChoice" maxPoints="1">
+      <p>Ein sicheres Passwort gewährleistet die vollständige Sicherheit meiner Online-Konten.</p>
+      <input value="false" type="radio"> <label for="answer1">richtig</label><br>
+      <input value="true" type="radio"> <label for="answer2">falsch</label><br>
+      <p title="explanation">Auch ein starkes Passwort kann missbraucht werden, zum Beispiel wenn die gesamte Datenbank eines Online-Dienstes gehackt wird. Kombinieren Sie ein sicheres Passwort mit einer 2-Faktor-Authentifizierung, um den Schutz Ihrer Konten zu verbessern.</p>
+    </form>
+    <form type="singleChoice" maxPoints="1">
+      <p>Die Zwei-Faktor-Authentifizierung ist nur für mein Bankkonto erforderlich.</p>
+      <input value="false" type="radio"> <label for="answer3">Richtig</label><br>
+      <input value="true" type="radio"> <label for="answer4">Falsch</label><br>
+      <p title="explanation">Die 2-Faktor-Authentifizierung sollte überall dort eingesetzt werden, wo es möglich ist, insbesondere bei E-Mail-Konten. Denn: Sobald andere Personen Zugang zu Ihrem E-Mail-Konto haben, können sie sich sonst Zugang zu weiteren Online-Diensten verschaffen. </p>
+    </form>
+    <form type="singleChoice" maxPoints="1">
+      <p>Ein sicheres Passwort und eine PIN für den Zugang zu einem Konto ist vergleichbar mit der 2-Faktor-Authentifizierung.</p>
+      <input value="false" type="radio"> <label for="answer3">Richtig</label><br>
+      <input value="true" type="radio"> <label for="answer4">Falsch</label><br>
+      <p title="explanation">Die 2 Faktoren sollten unterschiedlicher Art sein - Passwort und PIN sind beide „Wissen über etwas“.</p>
+    </form>
+  </body>
+</html>
