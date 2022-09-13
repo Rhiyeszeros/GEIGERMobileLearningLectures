@@ -8,6 +8,7 @@ p{
 	font-display: 	block;
 	text-align: 	center;
 	padding-bottom: 4rem;
+	margin-right: 3rem
 }
 
 h1{
@@ -20,6 +21,7 @@ li{
 	text-align: 	left;
 	padding-bottom: 2rem;
 	margin-left: 3rem;
+	margin-right: 3rem
 }
 
 html{
