@@ -1,1 +1,40 @@
-<!DOCTYPE html><html lang="de">  <head>    <meta http-equiv="content-type" content="text/html; charset=utf-8">    <meta name="FM" content="spam filters">    <title></title>    <link rel="stylesheet" href="../../../main.css?v=1.0">  </head>  <body>    <p>Richtig oder falsch? </p>    <p>      <!--Single Choice Aufgabe-->      <!-- "value" gibt an, was das richtige Resultat sein sollte. Bei "true" sollte diese Antwortmöglichkeit gewählt werden, um die Frage richtig zu beantworten. -->      <!-- Bei Single Choice Aufgaben darf nur die eine, korrekte Antwortmöglichkeit bei "value" den Wert "true" haben.--></p>    <form type="singleChoice" maxpoints="1">      <p>Spam-E-Mails sind eigentlich nur lästige Werbung. </p>      <input value="false" type="radio"> <label for="answer1">richtig</label><br>      <input value="true" type="radio"> <label for="answer2">falsch<br>        <br>      </label>      <p title="explanation">Automatisierte E-Mails von Betrügern können Links        oder Anhänge enthalten, die Malware auf Ihrem Computer installieren.        Andere E-Mails können versuchen, Sie durch Social Engineering zu        Zahlungen zu bewegen. </p>    </form>    <form type="singleChoice" maxpoints="1">      <p>Ich muss unerwünschte E-Mails immer manuell als Spam markieren. </p>      <input value="false" type="radio"> <label for="answer3">richtig</label><br>      <input value="true" type="radio"> <label for="answer4">falsch</label><label        for="answer4"></label><br>      <p title="explanation"> Automatisierte Spam-Filter können Ihnen die meiste        Arbeit abnehmen. Bei Bedarf können Sie nicht gefilterte E-Mails        zusätzlich manuell markieren </p>    </form>  </body></html>
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="FM" content="spam filters">
+    <title></title>
+    <link rel="stylesheet" href="../../../main.css?v=1.0">
+  </head>
+  <body>
+    <p>Richtig oder falsch? </p>
+    <!--Single Choice Aufgabe-->
+    <!-- "value" gibt an, was das richtige Resultat sein sollte. Bei "true" sollte diese Antwortmöglichkeit gewählt werden, um die Frage richtig zu beantworten. -->
+    <!-- Bei Single Choice Aufgaben darf nur die eine, korrekte Antwortmöglichkeit bei "value" den Wert "true" haben.-->
+    <form type="singleChoice" maxpoints="1">
+      <p>Spam-E-Mails enthalten meist lästige Werbung. </p>
+      <input value="false" type="radio"> <label for="answer1">richtig</label><br>
+      <input value="true" type="radio"> <label for="answer2">falsch<br>
+        <br>
+      </label>
+      <p title="explanation">Automatisierte E-Mails von Betrügern können Links
+        oder Anhänge enthalten, die Malware auf Ihrem Computer installieren.
+        Andere E-Mails können versuchen, Sie durch Social Engineering zu
+        Zahlungen zu bewegen. </p>
+    </form>
+    <!--Single Choice Aufgabe-->
+    <!-- "value" gibt an, was das richtige Resultat sein sollte. Bei "true" sollte diese Antwortmöglichkeit gewählt werden, um die Frage richtig zu beantworten. -->
+    <!-- Bei Single Choice Aufgaben darf nur die eine, korrekte Antwortmöglichkeit bei "value" den Wert "true" haben.-->
+    <form type="singleChoice" maxpoints="1">
+      <p>Ich muss unerwünschte E-Mails immer manuell als Spam markieren. </p>
+      <input value="false" type="radio"> <label for="answer3">richtig</label><br>
+      <input value="true" type="radio"> <label for="answer4">falsch<br>
+        <br>
+      </label>
+      <p title="explanation">Automatisierte Spam-Filter können Ihnen die meiste
+        Arbeit abnehmen. Bei Bedarf können Sie nicht gefilterte E-Mails
+        zusätzlich manuell markieren. </p>
+    </form>
+    
+  </body>
+</html>
