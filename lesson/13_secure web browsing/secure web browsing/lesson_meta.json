@@ -14,5 +14,5 @@
   "duration": 5,
   "difficulty": 0,
   "prerequisites": ["LSE001", "LPS001", "L2F001", "LUP001"],
-  "impact": ["b59a62bb-a95d-4c1a-b8f2-e53c303843df, medium"]
+  "impact": ["f1836c07-0bf8-49ab-831a-61026c7ce0d4, medium"]
 }
