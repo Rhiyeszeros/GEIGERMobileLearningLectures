@@ -4,12 +4,14 @@
   "title": {
     "eng": "Password manager",
     "de": "Passwortverwaltung",
-    "nl": "TBD",
-    "ro": "TBD"
+    "nl": "Wachtwoord manager",
+    "ro": "Manager de parole"
   },
   "motivation": {
     "eng": "Learn about password managers!",
-    "de": "Lernen Sie, wie Sie Passwortverwaltung nutzen können!"
+    "de": "Lernen Sie, wie Sie Passwortverwaltung nutzen können!",
+    "nl": "Leer over wachtwoordmanagers!",
+    "ro": "Aflați despre managerii de parole!"
   },
   "duration": 5,
   "difficulty": 2,

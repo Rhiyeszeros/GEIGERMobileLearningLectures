@@ -1,9 +1,9 @@
 {
   "lessonCategoryId": "CID004",
   "title": {
-    "eng":"Cyber Insurance",
-    "de":"Cyber-Versicherungen",
-	  "nl": "TBD",
-	  "ro": "TBD"
+   "eng": "Cyber Insurance",
+    "de": "Cyber-Versicherungen",
+    "nl": "Cyberverzekering",
+    "ro": "Asigurări cibernetice"
   }
 }

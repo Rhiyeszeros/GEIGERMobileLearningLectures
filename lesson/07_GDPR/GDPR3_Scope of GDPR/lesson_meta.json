@@ -4,12 +4,14 @@
   "title": {
     "eng": "Scope of GDPR",
     "de": "Anwendungsbereich der DSGVO",
-    "nl": "TBD",
-    "ro": "TBD"
+    "nl": "Toepassingsgebied van de GDPR",
+    "ro": "Domeniul de aplicare al GDPR"
   },
   "motivation": {
     "eng": "Learn about the scope of GDPR!",
-    "de": "Erfahren Sie mehr über den Anwendungsbereich der DSGVO!"
+    "de": "Erfahren Sie mehr über den Anwendungsbereich der DSGVO!",
+    "nl": "Leer meer over de reikwijdte van GDPR!",
+    "ro": "Aflați mai multe despre domeniul de aplicare al GDPR!"
   },
   "duration": 10,
   "difficulty": 2,

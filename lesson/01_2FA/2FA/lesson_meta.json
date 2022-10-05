@@ -4,12 +4,14 @@
   "title": {
     "eng": "2-Factor Authentication",
     "de": "2-Faktor Authentifizierung",
-    "nl": "TBD",
-    "ro": "TBD"
+    "nl": "2-factor authenticatie",
+    "ro": "Autentificare cu 2 factori"
   },
   "motivation": {
     "eng": "Learn about 2-Factor Authentication!",
-    "de": "Informieren Sie sich über 2-Faktor Authentifizierung!"
+    "de": "Informieren Sie sich über 2-Faktor Authentifizierung!",
+    "nl": "Leer meer over 2-Factor Authenticatie!",
+    "ro": "Aflați mai multe despre autentificarea cu 2 factori!"
   },
   "duration": 5,
   "difficulty": 1,

@@ -4,12 +4,14 @@
   "title": {
     "eng": "Cyber Insurance",
     "de": "Cyber-Versicherungen",
-    "nl": "TBD",
-    "ro": "TBD"
+    "nl": "Cyberverzekering",
+    "ro": "Asigurări cibernetice"
   },
   "motivation": {
     "eng": "Learn about cyber insurances!",
-    "de": "Lernen Sie über Cyber-Versicherungen!"
+    "de": "Lernen Sie über Cyber-Versicherungen!",
+    "nl": "Leer meer over cyberverzekeringen!",
+    "ro": "Aflați mai multe despre asigurarea cibernetică!"
   },
   "duration": 5,
   "difficulty": 2,

@@ -4,12 +4,14 @@
   "title": {
     "eng": "Updates",
     "de": "Updates",
-    "nl": "TBD",
-    "ro": "TBD"
+    "nl": "Updates",
+    "ro": "Updates"
   },
   "motivation": {
     "eng": "Learn about the importance of updates for cybersecurity!",
-    "de": "Erfahren Sie, warum Updates essentiell für Cybersecurity sind!"
+    "de": "Erfahren Sie, warum Updates essentiell für Cybersecurity sind!",
+    "nl": "Leer over het belang van updates voor cyberveiligheid!",
+    "ro": "Aflați despre importanța actualizărilor pentru securitatea cibernetică!"
   },
   "duration": 5,
   "difficulty": 1,

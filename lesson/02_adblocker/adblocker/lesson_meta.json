@@ -4,12 +4,14 @@
   "title": {
     "eng": "Adblocker",
     "de": "Adblocker",
-    "nl": "TBD",
-    "ro": "TBD"
+    "nl": "Adblocker",
+    "ro": "Adblocker"
   },
   "motivation": {
     "eng": "Learn how to use Adblockers!",
-    "de": "Lernen Sie, wie Sie Adblocker nutzen können!"
+    "de": "Lernen Sie, wie Sie Adblocker nutzen können!",
+    "nl": "Leer hoe je Adblockers moet gebruiken!",
+    "ro": "Învață cum să folosești Adblockers!"
   },
   "duration": 3,
   "difficulty": 1,

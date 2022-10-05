@@ -4,12 +4,14 @@
   "title": {
     "eng": "E-Mail Encryption",
     "de": "E-Mail Verschlüsselung",
-    "nl": "TBD",
-    "ro": "TBD"
+    "nl": "Email Encryptie",
+    "ro": "Criptare e-mail"
   },
   "motivation": {
     "eng": "Learn how to encrypt E-Mails!",
-    "de": "Lernen Sie, wie E-Mail Verschlüsselung funktioniert!"
+    "de": "Lernen Sie, wie E-Mail Verschlüsselung funktioniert!",
+    "nl": "Leer hoe je e-mails versleutelt!",
+    "ro": "Aflați cum să criptați e-mailurile!"
   },
   "duration": 10,
   "difficulty": 2,

@@ -4,12 +4,14 @@
   "title": {
     "eng": "Remote work security",
     "de": "Sicheres Arbeiten im Home-Office",
-    "nl": "TBD",
-    "ro": "TBD"
+    "nl": "Veilig werken in het thuiskantoor",
+    "ro": "Lucrul în siguranță în biroul de acasă"
   },
   "motivation": {
     "eng": "Learn about cybersecurity in remote work!",
-    "de": "Erfahren Sie mehr über Cybersecurity im Homeoffice!"
+    "de": "Erfahren Sie mehr über Cybersecurity im Homeoffice!",
+    "nl": "Meer informatie over cyberbeveiliging in het thuiskantoor!",
+    "ro": "Aflați mai multe despre securitatea cibernetică în biroul de acasă!"
   },
   "duration": 5,
   "difficulty": 1,
