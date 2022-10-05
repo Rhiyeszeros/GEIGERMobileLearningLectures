@@ -7,32 +7,32 @@
     <link rel="stylesheet" href="../../../main.css?v=1.0">
   </head>
   <body>
-    <p>Wählen Sie die richtigen Antworten aus!</p>
+    <p>Choose the correct answers!</p>
     <!--Single Choice Aufgabe-->
     <!-- "value" gibt an, was das richtige Resultat sein sollte. Bei "true" sollte diese Antwortmöglichkeit gewählt werden, um die Frage richtig zu beantworten. -->
     <!-- Bei Single Choice Aufgaben darf nur die eine, korrekte Antwortmöglichkeit bei "value" den Wert "true" haben.-->
     <form type="singleChoice" maxPoints="1">
-      <p>Richtig oder falsch: Bei einem DDoS-Angriff wird ein Netzwerk von Quellen genutzt, um einen erhöhten Datenverkehr bei einem Ziel, z. B. einer Website, zu erzeugen. </p>
-      <input value="true" type="radio"> <label for="answer1">richtig</label><br>
-      <input value="false" type="radio"> <label for="answer2">falsch</label><br>
-      <p title="explanation">DDoS steht für "Distributed Denial of Service". Der Datenverkehr wird über ein großes Netzwerk von Computersystemen verteilt.</p>
+      <p>True or false: A DDoS attack uses a network of sources to create an increased traffic on a target, for example a website.</p>
+      <input value="true" type="radio"> <label for="answer1">true</label><br>
+      <input value="false" type="radio"> <label for="answer2">false</label><br>
+      <p title="explanation">DDoS stands for “distributed Denial of Service”. The traffic is distributed in a large network of devices.</p>
     </form>
     <form type="singleChoice" maxPoints="1">
-      <p>DDoS- oder DoS-Angriffe zielen darauf ab, Computer von Mitarbeitenden auszuschalten.</p>
-      <input value="false" type="radio"> <label for="answer3">richtig</label><br>
-      <input value="true" type="radio"> <label for="answer4">falsch</label><br>
-      <p title="explanation">Solche Angriffe richten sich in der Regel gegen Online-Dienste wie Websites, Online-Shops usw.</p>
+      <p>DDoS or DoS attacks are usually meant to shut down the computer of an employee.</p>
+      <input value="false" type="radio"> <label for="answer3">true</label><br>
+      <input value="true" type="radio"> <label for="answer4">false</label><br>
+      <p title="explanation">Such attacks usually tackle online services such as websites, online shops etc.</p>
     </form>
     <!--Multiple Choice Aufgabe-->
     <!-- Alle Antwortmöglichkeiten die korrekterweise ausgewählt werden sollten, müssen den Wert "true" als "value haben.-->
     <form type="multipleChoice" maxPoints="1.5">
-      <p>Welche Maßnahmen sollten Sie ergreifen, wenn Sie von einem DoS/DDoS-Angriff betroffen sind?</p>
-      <input value="false" type="checkbox"> <label for="answer5">Computer ausschalten</label><br>
-      <input value="true" type="checkbox"> <label for="answer6">Hilfe von Expert:innen holen</label><br>
-      <input value="true" type="checkbox"> <label for="answer7">Webhoster (oder betroffenen Dienst) kontaktieren</label><br>
-      <p title="explanation">Im Falle eines DDoS-Angriffs sollten Sie sich Hilfe holen und Ihren Webhoster oder den betroffenen Dienst kontaktieren. Das Ausschalten Ihres Computers hilft nicht.  
+      <p>Which actions should you take when you experience a DoS/DDoS attack?</p>
+      <input value="false" type="checkbox"> <label for="answer5">Turn off computer</label><br>
+      <input value="true" type="checkbox"> <label for="answer6">Get help from an expert</label><br>
+      <input value="true" type="checkbox"> <label for="answer7">Contact web host (or concerned service)</label><br>
+      <p title="explanation">In case of a DDoS attack, get help from an expert and contact your web host or the concerned service. Turning off your computer won’t help.   
 
-Eine weitere Maßnahme gegen DDoS-Attacken ist auch der Schutz von Webseiten durch technische Massnahmen, die der Provider anbieten kann. 
+Another measure against DDoS is also the protection of websites by technical measures that the provider can offer.
 </p>
     </form>
   </body>
