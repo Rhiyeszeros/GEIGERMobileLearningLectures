@@ -4,12 +4,14 @@
   "title": {
     "eng": "Backups",
     "de": "Backups",
-    "nl": "TBD",
-    "ro": "TBD"
+    "nl": "Backups",
+    "ro": "Backups"
   },
   "motivation": {
     "eng": "Learn about backups!",
-    "de": "Informieren Sie sich über Backups!"
+    "de": "Informieren Sie sich über Backups!",
+    "nl": "Leer over back-ups!",
+    "ro": "Citește peste back-up-uri!"
   },
   "duration": 3,
   "difficulty": 0,

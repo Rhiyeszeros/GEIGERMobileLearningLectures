@@ -4,12 +4,14 @@
   "title": {
     "eng": "Macros",
     "de": "Makros",
-    "nl": "TBD",
-    "ro": "TBD"
+    "nl": "Macros",
+    "ro": "Macros"
   },
   "motivation": {
     "eng": "Learn about macros and safe macro usage!",
-    "de": "Erfahren Sie mehr über Makros und deren sichere Verwendung!"
+    "de": "Erfahren Sie mehr über Makros und deren sichere Verwendung!",
+    "nl": "Leer over macros en veilig macrogebruik!",
+    "ro": "Învățați despre macro-uri și utilizarea sigură a macro-urilor!"
   },
   "duration": 4,
   "difficulty": 2,

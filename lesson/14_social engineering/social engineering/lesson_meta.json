@@ -4,12 +4,14 @@
   "title": {
     "eng": "Social Engineering",
     "de": "Social Engineering",
-    "nl": "TBD",
-    "ro": "TBD"
+    "nl": "Social Engineering",
+    "ro": "Social Engineering"
   },
   "motivation": {
     "eng": "Learn about social engineering and how to detect it!",
-    "de": "Lernen Sie, was social engineering ist und wie man es erkennt!"
+    "de": "Lernen Sie, was social engineering ist und wie man es erkennt!",
+    "nl": "Leer over social engineering en hoe het op te sporen!",
+    "ro": "Aflați despre social engineering și cum să o detectați!"
   },
   "duration": 5,
   "difficulty": 0,

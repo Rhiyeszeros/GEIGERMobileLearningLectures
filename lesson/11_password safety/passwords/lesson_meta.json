@@ -4,12 +4,14 @@
   "title": {
     "eng": "Passwords",
     "de": "Passwörter",
-    "nl": "TBD",
-    "ro": "TBD"
+    "nl": "Wachtwoorden",
+    "ro": "Parole"
   },
   "motivation": {
     "eng": "Learn about safe password usage!",
-    "de": "Informieren Sie sich über die sichere Verwendung von Passwörtern!"
+    "de": "Informieren Sie sich über die sichere Verwendung von Passwörtern!",
+    "nl": "Leer over veilig gebruik van wachtwoorden!",
+    "ro": "Aflați despre utilizarea sigură a parolelor!"
   },
   "duration": 3,
   "difficulty": 0,

@@ -4,12 +4,14 @@
   "title": {
     "eng": "Safe online banking",
     "de": "Sicheres online banking",
-    "nl": "TBD",
-    "ro": "TBD"
+    "nl": "Veilig online bankieren",
+    "ro": "Servicii bancare online securizate"
   },
   "motivation": {
     "eng": "Learn how to practice safe online banking!",
-    "de": "Erfahren Sie, wie Sie Online-Banking sicher nutzen!"
+    "de": "Erfahren Sie, wie Sie Online-Banking sicher nutzen!",
+    "nl": "Leer hoe u veilig online kunt bankieren!",
+    "ro": "Aflați cum să practicați operațiuni bancare online sigure!"
   },
   "duration": 5,
   "difficulty": 1,

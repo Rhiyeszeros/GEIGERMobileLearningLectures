@@ -4,12 +4,14 @@
   "title": {
     "eng": "User privileges",
     "de": "Benutzer:innenrechte",
-    "nl": "TBD",
-    "ro": "TBD"
+    "nl": "Gebruikersrechten",
+    "ro": "Drepturile utilizatorilor"
   },
   "motivation": {
     "eng": "Learn about the importance of user privileges for cybersecurity!",
-    "de": "Erfahren Sie, warum Benutzer:innenrechte essentiell für Cybersecurity sind!"
+    "de": "Erfahren Sie, warum Benutzer:innenrechte essentiell für Cybersecurity sind!",
+    "nl": "Leer over het belang van gebruikersrechten voor cyberveiligheid!",
+    "ro": "Aflați despre importanța privilegiilor utilizatorilor pentru securitatea cibernetică!"
   },
   "duration": 5,
   "difficulty": 2,

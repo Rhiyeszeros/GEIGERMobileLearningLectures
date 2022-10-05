@@ -1,9 +1,9 @@
 {
   "lessonCategoryId": "CID015",
   "title": {
-    "eng":"Spam filter",
-    "de":"Spam-Filter",
-	  "nl": "TBD",
-	  "ro": "TBD"
+    "eng": "Spam filters",
+    "de": "Spam-Filter",
+    "nl": "Spamfilter",
+    "ro": "Filtru de spam"
   }
 }

@@ -4,12 +4,14 @@
   "title": {
     "eng": "DDoS Attacks",
     "de": "DDoS Attacken",
-    "nl": "TBD",
-    "ro": "TBD"
+    "nl": "DDoS-aanval",
+    "ro": "Atac DDoS"
   },
   "motivation": {
     "eng": "Learn about DDoS-Attacks!",
-    "de": "Finden Sie heraus, was eine DDoS-Attacke ist!"
+    "de": "Finden Sie heraus, was eine DDoS-Attacke ist!",
+    "nl": "Leer over DDoS-aanvallen!",
+    "ro": "Aflați despre atacurile DDoS!"
   },
   "duration": 5,
   "difficulty": 2,

@@ -1,9 +1,9 @@
 {
   "lessonCategoryId": "CID017",
   "title": {
-    "eng":"User privileges",
-    "de":"Benutzer:innenrechte",
-	  "nl": "TBD",
-	  "ro": "TBD"
+    "eng": "User privileges",
+    "de": "Benutzer:innenrechte",
+    "nl": "Gebruikersrechten",
+    "ro": "Drepturile utilizatorilor"
   }
 }

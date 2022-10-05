@@ -4,12 +4,14 @@
   "title": {
     "eng": "Spam filters",
     "de": "Spam-Filter",
-    "nl": "TBD",
-    "ro": "TBD"
+    "nl": "Spamfilter",
+    "ro": "Filtru de spam"
   },
   "motivation": {
     "eng": "Learn how to use spam filters!",
-    "de": "Lernen Sie, wie Sie Spam-Filter gezielt einsetzen können!"
+    "de": "Lernen Sie, wie Sie Spam-Filter gezielt einsetzen können!",
+    "nl": "Leer hoe je spamfilters moet gebruiken!",
+    "ro": "Învățați cum să folosiți filtrele de spam!"
   },
   "duration": 5,
   "difficulty": 1,

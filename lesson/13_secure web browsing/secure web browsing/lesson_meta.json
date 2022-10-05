@@ -4,12 +4,14 @@
   "title": {
     "eng": "Secure web browsing",
     "de": "Sicheres Surfen im Internet",
-    "nl": "TBD",
-    "ro": "TBD"
+    "nl": "Veilig surfen op het web",
+    "ro": "Navigare web sigură"
   },
   "motivation": {
     "eng": "Learn about secure web browsing principles!",
-    "de": "Lernen Sie die Grundsätze des sicheren Surfens im Internet kennen!"
+    "de": "Lernen Sie die Grundsätze des sicheren Surfens im Internet kennen!",
+    "nl": "Leer over de principes van veilig surfen op het web!",
+    "ro": "Aflați despre principiile de navigare sigură pe internet!"
   },
   "duration": 5,
   "difficulty": 0,

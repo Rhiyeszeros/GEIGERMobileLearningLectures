@@ -4,12 +4,14 @@
   "title": {
     "eng": "GDPR fines",
     "de": "Bußgelder im Rahmen der DSGVO",
-    "nl": "TBD",
-    "ro": "TBD"
+    "nl": "GDPR boetes",
+    "ro": "Amenzi GDPR"
   },
   "motivation": {
     "eng": "Inform yourself about GDPR fines in case of non-compliance!",
-    "de": "Informieren Sie sich über Bußgelder bei Nichteinhaltung der DSGVO!"
+    "de": "Informieren Sie sich über Bußgelder bei Nichteinhaltung der DSGVO!",
+    "nl": "Informeer u over GDPR-boetes bij niet-naleving!",
+    "ro": "Informați-vă despre amenzile GDPR pentru neconformitate!"
   },
   "duration": 10,
   "difficulty": 2,
