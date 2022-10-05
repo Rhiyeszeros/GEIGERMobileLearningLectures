@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="FM" content="user privileges">
+    <title></title>
+    <link rel="stylesheet" href="../../../main.css?v=1.0">
+  </head>
+  <body>
+    <p>Wählen Sie die korrekte(n) Antwort(en) aus!</p>
+    <!--Single Choice Aufgabe-->
+    <!-- "value" gibt an, was das richtige Resultat sein sollte. Bei "true" sollte diese Antwortmöglichkeit gewählt werden, um die Frage richtig zu beantworten. -->
+    <!-- Bei Single Choice Aufgaben darf nur die eine, korrekte Antwortmöglichkeit bei "value" den Wert "true" haben.-->
+    <form type="singleChoice" maxPoints="1">
+      <p>Alle Benutzer:innen sollten die Genehmigung haben, Programme zu installieren.</p>
+      <input value="false" type="radio"> <label for="answer1">richtig</label><br>
+      <input value="true" type="radio"> <label for="answer2">falsch</label><br>
+      <p title="explanation"> Das Benutzer:innenrecht, Programme zu installieren, bringt die Gefahr mit sich, versehentlich Malware zu installieren. Es sollte nur bestimmten Administrator:innen erlaubt sein, Programme zu installieren.</p>
+    </form>
+    <form type="singleChoice" maxPoints="1">
+      <p>Was sind mögliche Aufgaben von Administrator:innen? </p>
+      <input value="true" type="checkbox"> <label for="answer1">Festlegen von Regeln für sichere Passwörter für Benutzerkonten</label><br>
+      <input value="true" type="checkbox"> <label for="answer2">Installieren von Programmen für andere Benutzer</label><br>
+      <input value="true" type="checkbox"> <label for="answer3">Anlegen neuer Nutzer:innen</label><br>
+      <p title="explanation">Administrator:innen haben mehr Rechte als andere Benutzer:innen, und gewährleisten somit eine höhere Cybersicherheit.</p>
+    </form>
+  </body>
+</html>
+
