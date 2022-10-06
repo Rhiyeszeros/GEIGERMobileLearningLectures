@@ -2,14 +2,14 @@
   "lessonId": "LGT001",
   "lessonCategoryId": "CID018",
   "title": {
-    "en": "Learn about recommendations in the GEIGER Toolbox and how to lower your risk!",
-    "de": "Lernen Sie, wie Sie durch die vorgeschlagenen Maßnahmen der Toolbox Ihr Risiko minimieren!",
+    "en": "GEIGER Toolbox: Recommendations",
+    "de": "GEIGER Toolbox: Maßnahmen",
     "nl": "TBD",
     "ro": "TBD"
   },
   "motivation": {
-    "en": "Learn how to use Adblockers!",
-    "de": "Lernen Sie, wie Sie Adblocker nutzen können!"
+    "en": "Learn about recommendations in the GEIGER Toolbox and how to lower your risk!",
+    "de": "Lernen Sie, wie Sie durch die vorgeschlagenen Maßnahmen der Toolbox Ihr Risiko minimieren!"
   },
   "duration": 3,
   "difficulty": 1,
