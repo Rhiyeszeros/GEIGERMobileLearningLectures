@@ -1,8 +1,8 @@
 {
   "lessonCategoryId": "CID002",
   "title": {
-    "eng":"Adblocker",
-    "de":"Adblocker",
+    "en": "Adblocker",
+    "de": "Adblocker",
 	  "nl": "Adblocker",
 	  "ro": "Adblocker"
   }
