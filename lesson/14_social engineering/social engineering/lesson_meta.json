@@ -2,13 +2,13 @@
   "lessonId": "LSE001",
   "lessonCategoryId": "CID014",
   "title": {
-    "eng": "Social Engineering",
+    "en": "Social Engineering",
     "de": "Social Engineering",
     "nl": "TBD",
     "ro": "TBD"
   },
   "motivation": {
-    "eng": "Learn about social engineering and how to detect it!",
+    "en": "Learn about social engineering and how to detect it!",
     "de": "Lernen Sie, was social engineering ist und wie man es erkennt!"
   },
   "duration": 5,

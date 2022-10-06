@@ -2,13 +2,13 @@
   "lessonId": "LSW001",
   "lessonCategoryId": "CID013",
   "title": {
-    "eng": "Secure web browsing",
+    "en": "Secure web browsing",
     "de": "Sicheres Surfen im Internet",
     "nl": "TBD",
     "ro": "TBD"
   },
   "motivation": {
-    "eng": "Learn about secure web browsing principles!",
+    "en": "Learn about secure web browsing principles!",
     "de": "Lernen Sie die Grundsätze des sicheren Surfens im Internet kennen!"
   },
   "duration": 5,

@@ -2,13 +2,13 @@
   "lessonId": "LUP001",
   "lessonCategoryId": "CID016",
   "title": {
-    "eng": "Updates",
+    "en": "Updates",
     "de": "Updates",
     "nl": "TBD",
     "ro": "TBD"
   },
   "motivation": {
-    "eng": "Learn about the importance of updates for cybersecurity!",
+    "en": "Learn about the importance of updates for cybersecurity!",
     "de": "Erfahren Sie, warum Updates essentiell für Cybersecurity sind!"
   },
   "duration": 5,

@@ -2,13 +2,13 @@
   "lessonId": "L2F001",
   "lessonCategoryId": "CID001",
   "title": {
-    "eng": "2-Factor Authentication",
+    "en": "2-Factor Authentication",
     "de": "2-Faktor Authentifizierung",
     "nl": "TBD",
     "ro": "TBD"
   },
   "motivation": {
-    "eng": "Learn about 2-Factor Authentication!",
+    "en": "Learn about 2-Factor Authentication!",
     "de": "Informieren Sie sich über 2-Faktor Authentifizierung!"
   },
   "duration": 5,

@@ -7,7 +7,7 @@ Die meta.json Datei enthält die Informationen über die aktuell empfohlene Lekt
 ```
 {
     "recommendationText": {
-        "eng" : "Because of a current wave of phishing attempts, we recommend you to absolve the following lecture:",
+        "en" : "Because of a current wave of phishing attempts, we recommend you to absolve the following lecture:",
         "de" : "Aufgrund einer aktuellen Phishing-Welle empfehlen wir Ihnen die folgende Lektion zu absolvieren:",
         "nl" : "TBD",
         "ro" : "TBD"
@@ -30,7 +30,7 @@ Die lesson_category_meta.json-Datei enthält die Informationen über die Lektion
 {
   "lessonCategoryId": "CID001",
   "title": {
-    "eng":"Passwords",
+    "en":"Passwords",
     "de":"Passwörter",
     "nl": "TBD",
     "ro": "TBD"
@@ -54,13 +54,13 @@ Die lesson-meta.json-Datei enthält alle Informationen über die ausgewählte Le
   "lessonId": "LPW001",
   "lessonCategoryId": "CID001",
   "title": {
-    "eng": "Password Manager",
+    "en": "Password Manager",
     "de": "Passwortverwaltung",
     "nl": "TBD",
     "ro": "TBD"
   },
   "motivation": {
-    "eng": "Improve your password security!",
+    "en": "Improve your password security!",
     "de": "Verbessere deine Passwortsicherheit!"
   },
   "duration": 3,

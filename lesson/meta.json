@@ -2,8 +2,8 @@
     "recommendationText": {
         "en" : "Because of a current wave of phishing attempts, we recommend you to absolve the following lecture:",
         "de" : "Aufgrund einer aktuellen Phishing-Welle empfehlen wir Ihnen die folgende Lektion zu absolvieren:",
-	"nl" : "TBD",
-	"ro" : "TBD"
+	    "nl" : "TBD",
+	    "ro" : "TBD"
     },
     "recommendedLecture" : "L2F001",
     "recommendIfCompleted": "false"

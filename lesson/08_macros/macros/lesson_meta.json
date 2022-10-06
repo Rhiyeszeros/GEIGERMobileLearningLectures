@@ -2,13 +2,13 @@
   "lessonId": "LMC001",
   "lessonCategoryId": "CID008",
   "title": {
-    "eng": "Macros",
+    "en": "Macros",
     "de": "Makros",
     "nl": "TBD",
     "ro": "TBD"
   },
   "motivation": {
-    "eng": "Learn about macros and safe macro usage!",
+    "en": "Learn about macros and safe macro usage!",
     "de": "Erfahren Sie mehr über Makros und deren sichere Verwendung!"
   },
   "duration": 4,

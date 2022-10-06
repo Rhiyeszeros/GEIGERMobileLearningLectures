@@ -2,13 +2,13 @@
   "lessonId": "LPS002",
   "lessonCategoryId": "CID011",
   "title": {
-    "eng": "Password manager",
+    "en": "Password manager",
     "de": "Passwortverwaltung",
     "nl": "TBD",
     "ro": "TBD"
   },
   "motivation": {
-    "eng": "Learn about password managers!",
+    "en": "Learn about password managers!",
     "de": "Lernen Sie, wie Sie Passwortverwaltung nutzen können!"
   },
   "duration": 5,

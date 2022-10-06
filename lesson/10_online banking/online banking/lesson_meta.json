@@ -2,13 +2,13 @@
   "lessonId": "LOB001",
   "lessonCategoryId": "CID010",
   "title": {
-    "eng": "Safe online banking",
+    "en": "Safe online banking",
     "de": "Sicheres online banking",
     "nl": "TBD",
     "ro": "TBD"
   },
   "motivation": {
-    "eng": "Learn how to practice safe online banking!",
+    "en": "Learn how to practice safe online banking!",
     "de": "Erfahren Sie, wie Sie Online-Banking sicher nutzen!"
   },
   "duration": 5,
