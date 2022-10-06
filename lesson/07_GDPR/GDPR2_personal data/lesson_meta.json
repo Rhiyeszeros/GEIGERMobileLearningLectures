@@ -2,13 +2,13 @@
   "lessonId": "LDG002",
   "lessonCategoryId": "CID007",
   "title": {
-    "eng": "GDPR: Personal Data",
+    "en": "GDPR: Personal Data",
     "de": "DSGVO: Personenbezogene Daten",
     "nl": "GDPR: Persoonsgegevens",
     "ro": "GDPR: Date cu caracter personal"
   },
   "motivation": {
-    "eng": "Learn about personal data in the scope of GDPR!",
+    "en": "Learn about personal data in the scope of GDPR!",
     "de": "Erfahren Sie mehr über personenbezogene Daten im Rahmen der GDPR!",
     "nl": "Leer meer over persoonsgegevens in het kader van de GDPR!",
     "ro": "Aflați mai multe despre datele cu caracter personal în conformitate cu GDPR!"

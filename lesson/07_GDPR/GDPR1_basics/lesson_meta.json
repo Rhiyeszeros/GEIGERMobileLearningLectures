@@ -2,13 +2,13 @@
   "lessonId": "LGD001",
   "lessonCategoryId": "CID007",
   "title": {
-    "eng": "GDPR Basics",
+    "en": "GDPR Basics",
     "de": "DSGVO Grundlage",
     "nl": "GDPR grondbeginselen",
     "ro": "Bazele GDPR"
   },
   "motivation": {
-    "eng": "Learn about basic GDPR principles!",
+    "en": "Learn about basic GDPR principles!",
     "de": "Informieren Sie sich über die Grundprinzipien der DSGVO!",
     "nl": "Leer meer over de basisbeginselen van de GDPR!",
     "ro": "Aflați mai multe despre elementele de bază ale GDPR!"

@@ -1,7 +1,7 @@
 {
   "lessonCategoryId": "CID001",
   "title": {
-    "eng":"2-Factor Authentication",
+    "en":"2-Factor Authentication",
     "de":"2-Faktor Authentifizierung",
 	  "nl": "2-factor authenticatie",
 	  "ro": "Autentificare cu 2 factori"

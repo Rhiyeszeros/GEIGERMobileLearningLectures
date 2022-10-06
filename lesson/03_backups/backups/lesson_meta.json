@@ -2,13 +2,13 @@
   "lessonId": "LBU001",
   "lessonCategoryId": "CID003",
   "title": {
-    "eng": "Backups",
+    "en": "Backups",
     "de": "Backups",
     "nl": "Backups",
     "ro": "Backups"
   },
   "motivation": {
-    "eng": "Learn about backups!",
+    "en": "Learn about backups!",
     "de": "Informieren Sie sich über Backups!",
     "nl": "Leer over back-ups!",
     "ro": "Citește peste back-up-uri!"

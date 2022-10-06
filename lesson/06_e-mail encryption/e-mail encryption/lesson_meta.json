@@ -2,13 +2,13 @@
   "lessonId": "LEE001",
   "lessonCategoryId": "CID006",
   "title": {
-    "eng": "E-Mail Encryption",
+    "en": "E-Mail Encryption",
     "de": "E-Mail Verschlüsselung",
     "nl": "Email Encryptie",
     "ro": "Criptare e-mail"
   },
   "motivation": {
-    "eng": "Learn how to encrypt E-Mails!",
+    "en": "Learn how to encrypt E-Mails!",
     "de": "Lernen Sie, wie E-Mail Verschlüsselung funktioniert!",
     "nl": "Leer hoe je e-mails versleutelt!",
     "ro": "Aflați cum să criptați e-mailurile!"
