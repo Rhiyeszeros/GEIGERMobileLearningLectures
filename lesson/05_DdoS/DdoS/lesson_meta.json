@@ -2,13 +2,13 @@
   "lessonId": "LDD001",
   "lessonCategoryId": "CID005",
   "title": {
-    "eng": "DDoS Attacks",
+    "en": "DDoS Attacks",
     "de": "DDoS Attacken",
     "nl": "TBD",
     "ro": "TBD"
   },
   "motivation": {
-    "eng": "Learn about DDoS-Attacks!",
+    "en": "Learn about DDoS-Attacks!",
     "de": "Finden Sie heraus, was eine DDoS-Attacke ist!"
   },
   "duration": 5,

@@ -2,13 +2,13 @@
   "lessonId": "LGD001",
   "lessonCategoryId": "CID007",
   "title": {
-    "eng": "GDPR Basics",
+    "en": "GDPR Basics",
     "de": "DSGVO Grundlage",
     "nl": "TBD",
     "ro": "TBD"
   },
   "motivation": {
-    "eng": "Learn about basic GDPR principles!",
+    "en": "Learn about basic GDPR principles!",
     "de": "Informieren Sie sich über die Grundprinzipien der DSGVO!"
   },
   "duration": 5,

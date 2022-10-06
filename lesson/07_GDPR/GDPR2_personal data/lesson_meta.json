@@ -2,13 +2,13 @@
   "lessonId": "LDG002",
   "lessonCategoryId": "CID007",
   "title": {
-    "eng": "GDPR: Personal Data",
+    "en": "GDPR: Personal Data",
     "de": "DSGVO: Personenbezogene Daten",
     "nl": "TBD",
     "ro": "TBD"
   },
   "motivation": {
-    "eng": "Learn about personal data in the scope of GDPR!",
+    "en": "Learn about personal data in the scope of GDPR!",
     "de": "Erfahren Sie mehr über personenbezogene Daten im Rahmen der GDPR!!"
   },
   "duration": 10,
