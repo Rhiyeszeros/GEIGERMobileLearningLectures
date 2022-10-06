@@ -1,9 +1,9 @@
 {
   "lessonCategoryId": "CID002",
-  "title": {
-    "en": "Adblocker",
-    "de": "Adblocker",
-	  "nl": "TBD",
-	  "ro": "TBD"
-  }
+    "title": {
+      "en": "Adblocker",
+      "de": "Adblocker",
+      "nl": "TBD",
+      "ro": "TBD"
+    }
 }
