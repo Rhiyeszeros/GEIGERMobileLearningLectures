@@ -2,13 +2,13 @@
   "lessonId": "LCI001",
   "lessonCategoryId": "CID004",
   "title": {
-    "eng": "Cyber Insurance",
+    "en": "Cyber Insurance",
     "de": "Cyber-Versicherungen",
     "nl": "Cyberverzekering",
     "ro": "Asigurări cibernetice"
   },
   "motivation": {
-    "eng": "Learn about cyber insurances!",
+    "en": "Learn about cyber insurances!",
     "de": "Lernen Sie über Cyber-Versicherungen!",
     "nl": "Leer meer over cyberverzekeringen!",
     "ro": "Aflați mai multe despre asigurarea cibernetică!"

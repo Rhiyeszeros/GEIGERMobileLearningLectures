@@ -2,13 +2,13 @@
   "lessonId": "LPS002",
   "lessonCategoryId": "CID011",
   "title": {
-    "eng": "Password manager",
+    "en": "Password manager",
     "de": "Passwortverwaltung",
     "nl": "Wachtwoord manager",
     "ro": "Manager de parole"
   },
   "motivation": {
-    "eng": "Learn about password managers!",
+    "en": "Learn about password managers!",
     "de": "Lernen Sie, wie Sie Passwortverwaltung nutzen können!",
     "nl": "Leer over wachtwoordmanagers!",
     "ro": "Aflați despre managerii de parole!"

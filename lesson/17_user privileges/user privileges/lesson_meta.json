@@ -2,13 +2,13 @@
   "lessonId": "LUS001",
   "lessonCategoryId": "CID017",
   "title": {
-    "eng": "User privileges",
+    "en": "User privileges",
     "de": "Benutzer:innenrechte",
     "nl": "Gebruikersrechten",
     "ro": "Drepturile utilizatorilor"
   },
   "motivation": {
-    "eng": "Learn about the importance of user privileges for cybersecurity!",
+    "en": "Learn about the importance of user privileges for cybersecurity!",
     "de": "Erfahren Sie, warum Benutzer:innenrechte essentiell für Cybersecurity sind!",
     "nl": "Leer over het belang van gebruikersrechten voor cyberveiligheid!",
     "ro": "Aflați despre importanța privilegiilor utilizatorilor pentru securitatea cibernetică!"

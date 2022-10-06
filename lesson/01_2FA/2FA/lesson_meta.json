@@ -2,13 +2,13 @@
   "lessonId": "L2F001",
   "lessonCategoryId": "CID001",
   "title": {
-    "eng": "2-Factor Authentication",
+    "en": "2-Factor Authentication",
     "de": "2-Faktor Authentifizierung",
     "nl": "2-factor authenticatie",
     "ro": "Autentificare cu 2 factori"
   },
   "motivation": {
-    "eng": "Learn about 2-Factor Authentication!",
+    "en": "Learn about 2-Factor Authentication!",
     "de": "Informieren Sie sich über 2-Faktor Authentifizierung!",
     "nl": "Leer meer over 2-Factor Authenticatie!",
     "ro": "Aflați mai multe despre autentificarea cu 2 factori!"

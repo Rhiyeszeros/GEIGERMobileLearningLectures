@@ -2,13 +2,13 @@
   "lessonId": "LPS001",
   "lessonCategoryId": "CID011",
   "title": {
-    "eng": "Passwords",
+    "en": "Passwords",
     "de": "Passwörter",
     "nl": "Wachtwoorden",
     "ro": "Parole"
   },
   "motivation": {
-    "eng": "Learn about safe password usage!",
+    "en": "Learn about safe password usage!",
     "de": "Informieren Sie sich über die sichere Verwendung von Passwörtern!",
     "nl": "Leer over veilig gebruik van wachtwoorden!",
     "ro": "Aflați despre utilizarea sigură a parolelor!"

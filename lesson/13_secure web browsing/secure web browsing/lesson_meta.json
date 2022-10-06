@@ -2,13 +2,13 @@
   "lessonId": "LSW001",
   "lessonCategoryId": "CID013",
   "title": {
-    "eng": "Secure web browsing",
+    "en": "Secure web browsing",
     "de": "Sicheres Surfen im Internet",
     "nl": "Veilig surfen op het web",
     "ro": "Navigare web sigură"
   },
   "motivation": {
-    "eng": "Learn about secure web browsing principles!",
+    "en": "Learn about secure web browsing principles!",
     "de": "Lernen Sie die Grundsätze des sicheren Surfens im Internet kennen!",
     "nl": "Leer over de principes van veilig surfen op het web!",
     "ro": "Aflați despre principiile de navigare sigură pe internet!"
