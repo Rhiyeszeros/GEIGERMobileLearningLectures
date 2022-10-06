@@ -1,0 +1,18 @@
+{
+  "lessonId": "LCO001",
+  "lessonCategoryId": "CID018",
+  "title": {
+    "en": "GEIGER community",
+    "de": "GEIGER community",
+    "nl": "TBD",
+    "ro": "TBD"
+  },
+  "motivation": {
+    "en": "Learn about the GEIGER community!",
+    "de": "Lernen Sie die GEIGER community kennen!"
+  },
+  "duration": 3,
+  "difficulty": 1,
+  "prerequisites": [],
+  "impact": []
+}
