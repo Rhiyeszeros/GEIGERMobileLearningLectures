@@ -4,12 +4,14 @@
   "title": {
     "en": "GEIGER Toolbox: Recommendations",
     "de": "GEIGER Toolbox: Maßnahmen",
-    "nl": "TBD",
-    "ro": "TBD"
+    "nl": "GEIGER Toolbox: Recommendations",
+    "ro": "GEIGER Toolbox: Recommendations"
   },
   "motivation": {
     "en": "Learn about recommendations in the GEIGER Toolbox and how to lower your risk!",
-    "de": "Lernen Sie, wie Sie durch die vorgeschlagenen Maßnahmen der Toolbox Ihr Risiko minimieren!"
+    "de": "Lernen Sie, wie Sie durch die vorgeschlagenen Maßnahmen der Toolbox Ihr Risiko minimieren!",
+    "nl": "Leer meer over de aanbevelingen in de GEIGER Toolbox en hoe u uw risico kunt verlagen!",
+    "ro": "Aflați care sunt recomandările din Cutia cu instrumente GEIGER și cum să vă reduceți riscul!"
   },
   "duration": 3,
   "difficulty": 1,

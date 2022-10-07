@@ -4,12 +4,14 @@
   "title": {
     "en": "GEIGER community",
     "de": "GEIGER community",
-    "nl": "TBD",
-    "ro": "TBD"
+    "nl": "GEIGER community",
+    "ro": "GEIGER community"
   },
   "motivation": {
     "en": "Learn about the GEIGER community!",
-    "de": "Lernen Sie die GEIGER community kennen!"
+    "de": "Lernen Sie die GEIGER community kennen!",
+    "nl": "Leer de GEIGER-gemeenschap kennen!",
+    "ro": "Faceți cunoștință cu comunitatea GEIGER!"
   },
   "duration": 3,
   "difficulty": 1,
