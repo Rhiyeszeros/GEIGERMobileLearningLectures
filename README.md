@@ -103,5 +103,4 @@ Die Empfehlungen, die an die GEIGER Toolbox gesendet werden basieren auf den fol
 4. Lektionen mit einem höheren "Impact" werden priorisiert empfohlen.
 5. Lektionen mit niedriger Schwierigkeit werden priorisiert empfohlen.
 
-Alle Lektionen sind Eigentum der PH Freiburg (Jessica Peichl, Bernd Remmele)
-Alle Vorlagen und Anleitungen wurden erstellt von der FHNW Brugg/Windisch (René Achterberg)
+All contents of GEIGER Mobile Learning Lectures were created by Jessica Peichl and Bernd Remmele in assignment by PH Freiburg and are published under the XX license.
